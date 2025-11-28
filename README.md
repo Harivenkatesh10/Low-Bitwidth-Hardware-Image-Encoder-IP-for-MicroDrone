@@ -229,7 +229,7 @@ vivado -mode batch -source scripts/program_fpga.tcl
 
 ## Team & Attribution
 
-**Project Lead**: [Your Name]  
+**Project Lead**: Hari Venkatesh & Shankar M  
 **Hardware Design**: FPGA architecture and RTL implementation  
 **Validation**: Field testing and performance verification  
 **Documentation**: Technical specifications and deployment guides  
